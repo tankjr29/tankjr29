@@ -1,224 +1,171 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,100:E63946&height=220&section=header&text=TankRoot29&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20CTF%20Player%20%7C%20IoT%20%26%20Network%20Security&descAlignY=55&descSize=18"/>
-
-<p align="center">
-  <img src="https://github.com/TankRoot29.png" width="180" alt="Kossivi Jacques Junior AGBENONZAN"/>
+﻿<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=220&section=header&text=tankjr29&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Master%201%20R%C3%A9seaux%20%7C%20Stage%20BSS%20Manager%20%7C%20ZTE&descAlignY=55&descSize=16" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=E63946&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%7C+CTF+Player;Web+Exploitation+%7C+Cryptography+%7C+Forensics;IoT+Security+%7C+Networks+%7C+Edge+IDS;Write-ups+and+Technical+Projects" alt="Typing SVG" />
+  <img src="https://github.com/tankjr29.png" width="180" alt="tankjr29" />
 </p>
 
 <p align="center">
-  Étudiant en Licence 3 Informatique passionné par la cybersécurité, les réseaux et l'IoT.<br>
-  Ce compte regroupe mes write-ups CTF, laboratoires de sécurité, expérimentations réseau et projets IoT avancés.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=14b8a6&center=true&vCenter=true&width=700&lines=Master+1+R%C3%A9seaux+Informatiques;BSS+Manager+%7C+ZTE;Full+Stack+Developer;Mobile+Apps+%7C+Network+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/JunRoot29">
-    <img src="https://img.shields.io/badge/Main%20Account-JunRoot29-181717?style=for-the-badge&logo=github&logoColor=white">
+  Je suis étudiant en Master 1 Réseaux Informatiques, Systèmes et Télécommunications, actuellement en stage en tant que BSS Manager chez ZTE. <br>
+  J’aime concevoir des solutions techniques utiles, allier réseaux, systèmes, développement et innovation applicative.
+</p>
+
+<p align="center">
+  <a href="https://github.com/tankjr29">
+    <img src="https://img.shields.io/badge/GitHub-tankjr29-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://tryhackme.com/p/JuniorKA">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+  <a href="https://www.zte.com/">
+    <img src="https://img.shields.io/badge/ZTE-BSS%20Manager-1B6BFF?style=for-the-badge&logo=zte&logoColor=white" alt="ZTE" />
   </a>
-  <a href="https://jjka-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-10A5A5?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="mailto:junioragbenonzan31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Junioragbenonzan31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/github/followers/TankRoot29?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=TankRoot29&style=for-the-badge&color=E63946&label=PROFILE+VIEWS">
+  <img src="https://img.shields.io/github/followers/tankjr29?style=for-the-badge" alt="followers" />
 </p>
 
 ---
 
-# 🚀 Featured Project
+# 👋 À propos de moi
 
-## 🅿️ IoT Smart Parking & Edge Security
+Je suis un développeur et technicien passionné par les réseaux, les systèmes informatiques et la création de solutions utiles pour les utilisateurs et les entreprises.
 
-Projet IoT distribué combinant supervision temps réel, automatisation et cybersécurité embarquée.
+Mon profil combine :
 
-### Fonctionnalités
-
-* Gestion intelligente des places de parking
-* Contrôle d'accès automatisé via ESP32
-* Surveillance environnementale (température et humidité)
-* Détection d'intrusion avec Edge IDS embarqué
-* Collecte temps réel via MQTT
-* Visualisation Grafana
-* Automatisation via Node-RED
-* Stockage InfluxDB
-* Déploiement Docker
-
-### Technologies
-
-`ESP32` `MQTT` `Node-RED` `InfluxDB` `Grafana`
-`Docker` `IoT Security` `Edge Computing`
-
-🔗 Repository :
-https://github.com/TankRoot29/Projet-IoT---parking-iot-service
+- développement d'applications mobiles et web
+- administration réseau et télécommunications
+- architecture logicielle et API
+- projets orientés campus, innovation et digitalisation
+- travail en environnement professionnel avec exigences de performance et de fiabilité
 
 ---
 
-# 🚩 CTF & Cybersecurity
+# 💼 Expérience actuelle
 
-Je participe régulièrement à des challenges CTF afin de renforcer mes compétences en sécurité offensive et défensive.
+## Stage — BSS Manager chez ZTE
 
-Les write-ups publiés détaillent la méthodologie complète utilisée pour résoudre chaque challenge.
+Je suis actuellement en stage au sein de ZTE dans le cadre de mon Master 1, avec une immersion dans les activités liées au Business Support Systems (BSS), aux systèmes et outils de gestion réseau, à l’exploitation et à la digitalisation des services.
 
-### Domaines explorés
+Ce stage me permet de développer à la fois :
 
-| Domaine              | Compétences                                     |
-| -------------------- | ----------------------------------------------- |
-| 🌐 Web Exploitation  | SQL Injection, XSS, IDOR, Authentication Bypass |
-| 🔐 Cryptography      | RSA, XOR, Caesar, Frequency Analysis            |
-| 🐧 Linux & Scripting | Bash, Python, Shell, Automation                 |
-| 🔍 Forensics         | PCAP Analysis, Metadata, Steganography          |
-| 🌎 OSINT             | Recherche ouverte, corrélation d'informations   |
-| 📡 Networking        | TCP/IP, DNS, HTTP, Wireshark                    |
-
-📂 Repository :
-
-https://github.com/TankRoot29/pico-ctf-writeups
+- une compréhension forte des environnements réseau et télécoms
+- des compétences en gestion de services et support technique
+- une vision business / technique des solutions IT
+- la capacité à travailler sur des systèmes connectés à l’écosystème opérateur
 
 ---
 
-# 📡 Network & IoT Projects
+# 🚀 Projet phare
 
-### ⚖️ Load Balancing DNS & Web
+## CampusNav — Navigation intelligente sur le campus UFHB
 
-Infrastructure haute disponibilité composée :
+Application mobile de navigation sur le campus universitaire de Cocody (UFHB), avec back-office administrateur et API REST.
 
-* DNS Cluster (BIND9)
-* Web Farm Apache2
-* NAT/DNAT avec iptables
-* Émulation Kathara
+### Ce que fait le projet
 
-Technologies :
+CampusNav permet aux étudiants, enseignants et visiteurs de :
 
-`Kathara`
-`BIND9`
-`Apache2`
-`iptables`
-`Docker`
+- trouver rapidement les bâtiments et points d’intérêt
+- suivre des itinéraires adaptés
+- consulter les informations utiles du campus
+- accéder à des services de localisation et navigation simplifiés
 
-🔗
-https://github.com/TankRoot29/Projet-LoadBalancing
+### Stack technique
 
----
+React Native • Expo • Node.js • Express • Sequelize • MySQL • Mapbox • Firebase • Axios
 
-### 🎧 AudioStream UDP
+### Points forts
 
-Application Java de streaming audio temps réel via UDP.
-
-Fonctionnalités :
-
-* Streaming WAV
-* Jitter Buffer intelligent
-* Réordonnancement des paquets
-* Statistiques réseau temps réel
-* Gestion des pertes
-
-Technologies :
-
-`Java`
-`UDP`
-`Java Sound API`
-`ConcurrentSkipListMap`
-
-🔗
-https://github.com/TankRoot29/Diffusion-de-flux-Audio-avec-UDP
+- navigation intelligente sur campus
+- design orienté utilisateur
+- API REST avec base de données
+- back-office administratif
+- notifications push et informations dynamiques
+- architecture pensée pour une expérience mobile fluide
 
 ---
 
-# 🎓 Certifications & Learning Path
+# 🧠 Compétences principales
 
-## Cisco Networking Academy
+### Développement
+- React Native / Expo
+- Node.js / Express
+- JavaScript / TypeScript
+- API REST
+- Base de données MySQL
+- Back-office React
 
-* ✅ Introduction to Cybersecurity
-* ✅ Networking Basics
-* ✅ Networking Devices & Initial Configuration
-* 🔄 Endpoint Security
-* ⬜ Network Defense
-* ⬜ Cyber Threat Management
+### Réseaux & systèmes
+- Réseaux informatiques
+- Systèmes et télécommunications
+- Architecture réseau
+- Administration système
+- Déploiement et maintenance technique
 
-## Fortinet
-
-🛡️ Fortinet Certified Fundamentals Security Practitioner (FCF-SP)
-
----
-
-# 🏅 Certifications & Badges (Credly)
-
-| Badge | Certification | Émetteur | Date |
-|---|---|---|---|
-| 🛡️ | [Fortinet Certified Fundamentals (FCF) SP](https://www.credly.com/badges/c38d412e-5904-41db-b90b-c3bc70bea70b/public_url) | Fortinet Institute | 05 Mai 2026 |
-| 🌐 | [Networking Devices and Initial Configuration](https://www.credly.com/badges/8c8edaf0-68df-4063-8944-5a7971641e2b/public_url) | Cisco Networking Academy | Févr. 2026 |
-| 🌐 | [Networking Basics](https://www.credly.com/badges/b562b818-ab4f-4ed0-b8e1-c3a5b98187b6/public_url) | Cisco Networking Academy | Août 2025 |
-| 🔐 | [Introduction to Cybersecurity](https://www.credly.com/badges/7351de4b-d897-499a-ac6f-2ee02b128fec/public_url) | Cisco Networking Academy | Avr. 2024 |
+### Autres
+- Analyse de besoins
+- Solutions applicatives utiles
+- Développement orienté utilisateur
+- Projets académiques et professionnels
 
 ---
 
-# 🎯 Objectives 2026
+# 📌 À retenir
 
-* Publier 50+ write-ups CTF détaillés
-* Finaliser le parcours Cisco Cyber Analyst
-* Obtenir de nouvelles certifications cybersécurité
-* Approfondir la sécurité des systèmes IoT
-* Développer davantage de projets Edge Security
-* Contribuer à des projets Open Source liés à la cybersécurité
+Je cherche à construire des solutions où la technique sert l’utilisateur, que ce soit :
+
+- une application mobile
+- un système réseau ou télécom
+- une API métier
+- un outil fonctionnel pour un environnement réel
+
+Mon objectif est de continuer à développer des compétences solides dans les réseaux, les systèmes et le développement logiciel, tout en restant orienté vers des projets concrets et utiles.
 
 ---
 
-# 🛠️ Technical Stack
+# 🛠️ Stack technique
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
-# 📈 GitHub Activity
+# 📈 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TankRoot29&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=TankRoot29&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tankjr29&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Stats GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=tankjr29&theme=radical&hide_border=true" height="170" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TankRoot29&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TankRoot29/TankRoot29/output/github-contribution-grid-snake.svg" alt="Snake"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankjr29&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
 </p>
 
 ---
 
 # 📫 Contact
 
-🌍 Portfolio
-https://jjka-portfolio.vercel.app
-
-🐙 Main GitHub Account
-https://github.com/JunRoot29
-
-🎯 TryHackMe
-https://tryhackme.com/p/JuniorKA
-
-💼 LinkedIn
-https://www.linkedin.com/in/kossivi-jacques-junior-agbenonzan-235bb1358
-
-📧 Email
-[Junioragbenonzan31@gmail.com](mailto:Junioragbenonzan31@gmail.com)
+- GitHub : [tankjr29](https://github.com/tankjr29)
+- Email : [junioragbenonzan31@gmail.com](mailto:junioragbenonzan31@gmail.com)
+- Stage : ZTE — BSS Manager
+- Formation : Master 1 Réseaux Informatiques, Systèmes et Télécommunications
 
 ---
 
 <p align="center">
-  <i>"Learning, Building, Breaking, Securing."</i>
+  <i>"Créer des solutions utiles, solides et durables."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:1A0033&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=120&section=footer" />
