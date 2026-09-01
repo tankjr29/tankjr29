@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=220&section=header&text=Kossivi Jacques Junior AGBENONZAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Master%201%20RIST%20%7C%20BSS%20Manager%20%7C%20ZTE&descAlignY=55&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=220&section=header&text=Kossivi%20Jacques%20Junior%20AGBENONZAN&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Master%201%20RIST%20%7C%20BSS%20Manager%20%7C%20ZTE&descAlignY=55&descSize=16" />
 </p>
 
 <p align="center">
