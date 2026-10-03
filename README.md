@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Étudiant en Master 1 Réseaux Informatiques, Systèmes et Télécommunications, actuellement en stage en tant que BSS Manager chez ZTE. <br>
+  Étudiant en Master 1 Réseaux Informatiques, Systèmes et Télécommunications, actuellement en tant que BSS Intern chez ZTE. <br>
   Passionné par les réseaux, la cybersécurité, le développement logiciel et la conception de solutions utiles et performantes.
 </p>
 
@@ -39,7 +39,7 @@ Je suis un étudiant motivé, curieux et orienté vers les technologies réseaux
 Mon parcours me pousse à concevoir des solutions techniques utiles, à comprendre les infrastructures complexes et à transformer les idées en projets concrets.
 
 - Étudiant en Master 1 RIST
-- Stage actuel : BSS Manager chez ZTE
+- Stage actuel : BSS Intern chez ZTE
 - Intérêts : réseaux, sécurité, développement, automatisation, innovation
 - Objectif : créer des solutions solides, utiles et évolutives
 
