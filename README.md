@@ -4,6 +4,10 @@
 
 Je m’intéresse à la conception, à la supervision et à la sécurisation des infrastructures, ainsi qu’au développement de solutions utiles.
 
+<p align="center">
+  <img src="coding.gif" width="420" alt="Animation illustrant le développement informatique" />
+</p>
+
 [Portfolio](https://jjka-portfolio.vercel.app/) · [Projets](https://jjka-portfolio.vercel.app/#projets) · [LinkedIn](https://www.linkedin.com/in/kossivi-jacques-junior-agbenonzan-235bb1358) · [Me contacter](mailto:Junioragbenonzan31@gmail.com)
 
 ## Projets
