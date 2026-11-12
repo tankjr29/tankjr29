@@ -8,7 +8,12 @@ Je m’intéresse à la conception, à la supervision et à la sécurisation des
   <img src="coding.gif" width="420" alt="Animation illustrant le développement informatique" />
 </p>
 
-[Portfolio](https://jjka-portfolio.vercel.app/) · [Projets](https://jjka-portfolio.vercel.app/#projets) · [LinkedIn](https://www.linkedin.com/in/kossivi-jacques-junior-agbenonzan-235bb1358) · [Me contacter](mailto:Junioragbenonzan31@gmail.com)
+<p align="center">
+  <a href="https://jjka-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visiter-14b8a6?style=flat" alt="Portfolio : visiter" /></a>
+  <a href="https://jjka-portfolio.vercel.app/#projets"><img src="https://img.shields.io/badge/Projets-D%C3%A9couvrir-0f172a?style=flat" alt="Projets : découvrir" /></a>
+  <a href="https://www.linkedin.com/in/kossivi-jacques-junior-agbenonzan-235bb1358"><img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn : profil" /></a>
+  <a href="mailto:Junioragbenonzan31@gmail.com"><img src="https://img.shields.io/badge/Email-Contacter-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="E-mail : contacter" /></a>
+</p>
 
 ## Projets
 
